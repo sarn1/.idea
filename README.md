@@ -1,6 +1,8 @@
-# .idea
-<<<<<<< HEAD
-My PHPStorm settings.
-=======
-My PHPStorm Settings
->>>>>>> 8ca2883569e9bdd502858778a345d1b7ca3ba586
+## My Settings for PhpStorm
+
+#### Installation Instructions
+
+- Open PhpStorm
+- Choose Configuration ⥱ Import Settings
+- Select the `settings.jar` file provided by this repo.
+- If asked which settings to import choose "Code style schemes".
