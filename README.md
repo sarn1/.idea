@@ -1,2 +1,0 @@
-# .idea
-My PHPStorm settings.
